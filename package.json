@@ -1,7 +1,7 @@
 {
   "name": "i18n-locales",
   "description": "List of locales for i18n",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "author": "Nick Baugh <niftylettuce@gmail.com> (http://niftylettuce.com/)",
   "bugs": {
     "url": "https://github.com/ladjs/i18n-locales/issues",
