@@ -1,48 +1,3 @@
-# i18n-locales
-
-[![build status](https://img.shields.io/travis/ladjs/i18n-locales.svg)](https://travis-ci.org/ladjs/i18n-locales)
-[![code coverage](https://img.shields.io/codecov/c/github/ladjs/i18n-locales.svg)](https://codecov.io/gh/ladjs/i18n-locales)
-[![code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/sindresorhus/xo)
-[![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
-[![made with lass](https://img.shields.io/badge/made_with-lass-95CC28.svg)](https://lass.js.org)
-[![license](https://img.shields.io/github/license/ladjs/i18n-locales.svg)](<>)
-
-> List of locales for i18n
-
-
-## Table of Contents
-
-* [Install](#install)
-* [Usage](#usage)
-* [Tip](#tip)
-* [Contributors](#contributors)
-* [License](#license)
-
-
-## Install
-
-[npm][]:
-
-```sh
-npm install i18n-locales
-```
-
-[yarn][]:
-
-```sh
-yarn add i18n-locales
-```
-
-
-## Usage
-
-```js
-const locales = require('i18n-locales');
-
-console.log(JSON.stringify(locales, null, 2));
-```
-
-```sh
 [
   "Cy-az-AZ",
   "Cy-sr-SP",
@@ -363,30 +318,3 @@ console.log(JSON.stringify(locales, null, 2));
   "zh-TW",
   "zu"
 ]
-```
-
-
-## Tip
-
-Use [country-language][] or [@cospired/i18n-iso-languages](https://github.com/cospired/i18n-iso-languages) packages for further insight into localization and languages.
-
-
-## Contributors
-
-| Name           | Website                    |
-| -------------- | -------------------------- |
-| **Nick Baugh** | <http://niftylettuce.com/> |
-
-
-## License
-
-[MIT](LICENSE) © [Nick Baugh](http://niftylettuce.com/)
-
-
-## 
-
-[npm]: https://www.npmjs.com/
-
-[yarn]: https://yarnpkg.com/
-
-[country-language]: https://github.com/bdswiss/country-language
