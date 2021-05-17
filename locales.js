@@ -1,4 +1,4 @@
-const countryLanguage = require('country-language');
+const countryLanguage = require('@ladjs/country-language');
 
 const codes = countryLanguage.getLanguageCodes();
 const locales = codes.reduce((acc, code) => {

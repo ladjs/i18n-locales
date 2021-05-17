@@ -5,7 +5,7 @@
 [![code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/sindresorhus/xo)
 [![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
 [![made with lass](https://img.shields.io/badge/made_with-lass-95CC28.svg)](https://lass.js.org)
-[![license](https://img.shields.io/github/license/ladjs/i18n-locales.svg)](<>)
+[![license](https://img.shields.io/github/license/ladjs/i18n-locales.svg)]()
 
 > List of locales for i18n
 
@@ -383,10 +383,10 @@ Use [country-language][] or [@cospired/i18n-iso-languages](https://github.com/co
 [MIT](LICENSE) © [Nick Baugh](http://niftylettuce.com/)
 
 
-## 
+##
 
 [npm]: https://www.npmjs.com/
 
 [yarn]: https://yarnpkg.com/
 
-[country-language]: https://github.com/bdswiss/country-language
+[country-language]: https://github.com/ladjs/country-language
