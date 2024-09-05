@@ -11,7 +11,7 @@
     "Nick Baugh <niftylettuce@gmail.com> (http://niftylettuce.com/)"
   ],
   "dependencies": {
-    "@ladjs/country-language": "^0.2.1"
+    "@ladjs/country-language": "^1.0.0"
   },
   "devDependencies": {
     "ava": "^3.15.0",
